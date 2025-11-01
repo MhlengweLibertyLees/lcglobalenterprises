@@ -4,24 +4,4 @@
     <loc>https://mhlengwelibertylees.github.io/lcglobalenterprises/</loc>
     <priority>1.00</priority>
   </url>
-  <url>
-    <loc>https://mhlengwelibertylees.github.io/lcglobalenterprises/#services</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://mhlengwelibertylees.github.io/lcglobalenterprises/#packages</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://mhlengwelibertylees.github.io/lcglobalenterprises/#portfolio</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://mhlengwelibertylees.github.io/lcglobalenterprises/#about</loc>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://mhlengwelibertylees.github.io/lcglobalenterprises/#contact</loc>
-    <priority>0.90</priority>
-  </url>
 </urlset>
